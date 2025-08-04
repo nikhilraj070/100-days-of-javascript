@@ -9,5 +9,6 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 03:Random Number Generator
 - [x] Day 04:Tip Calculator
 - [x] Day 05:BMI Calculator
+- [x] Day 06:Character Counter
       
 
