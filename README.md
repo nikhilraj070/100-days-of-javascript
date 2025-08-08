@@ -12,6 +12,7 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 06:Character Counter
 - [x] Day 07:Word Counter
 - [x] Day 08:Word Counter
-- [x] Day 07:Image Slider
+- [x] Day 09:Image Slider
+- [x] Day 10:Image Slider
       
 
