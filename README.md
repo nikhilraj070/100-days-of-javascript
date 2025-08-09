@@ -15,5 +15,6 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 09:Image Slider
 - [x] Day 10:Image Slider
 - [x] Day 11:Age Calculator
+- [x] Day 12:Interest Calculator
       
 
