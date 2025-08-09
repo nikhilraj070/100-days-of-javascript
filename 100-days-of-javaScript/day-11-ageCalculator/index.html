@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Age Calculator</h1>
+        <input id="output" type="text" readonly>
+
+        <p>Date of Birth</p>
+        <div class="date">
+            <label for="bbdate">date</label>
+            <input id="bdate" type="number" min="1">
+            <label for="bmonth">month</label>
+            <input id="bmonth" type="number" min="1">
+            <label for="byear">year</label>
+            <input id="byear" type="number" min="1">
+        </div>
+        <p>Date To Calculate</p>
+        <div class="date">
+            <label for="cbdate">date</label>
+            <input id="cdate" type="number" min="1">
+            <label for="cmonth">month</label>
+            <input id="cmonth" type="number" min="1">
+            <label for="cyear">year</label>
+            <input id="cyear" type="number" min="1">
+        </div>
+        <div>
+            <button onclick="clearing()">clear</button>
+            <button onclick="calculate()">Calculate</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
