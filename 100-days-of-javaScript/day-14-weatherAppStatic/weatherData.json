@@ -1,0 +1,152 @@
+[
+    {
+        "city": "Delhi",
+        "temperature": "40\u00b0C",
+        "condition": "Thunderstorm"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": "34\u00b0C",
+        "condition": "Sunny"
+    },
+    {
+        "city": "Kolkata",
+        "temperature": "25\u00b0C",
+        "condition": "Rainy"
+    },
+    {
+        "city": "Chennai",
+        "temperature": "35\u00b0C",
+        "condition": "Sunny"
+    },
+    {
+        "city": "Bangalore",
+        "temperature": "36\u00b0C",
+        "condition": "Hazy"
+    },
+    {
+        "city": "Hyderabad",
+        "temperature": "33\u00b0C",
+        "condition": "Foggy"
+    },
+    {
+        "city": "Pune",
+        "temperature": "40\u00b0C",
+        "condition": "Sunny"
+    },
+    {
+        "city": "Ahmedabad",
+        "temperature": "27\u00b0C",
+        "condition": "Foggy"
+    },
+    {
+        "city": "Jaipur",
+        "temperature": "40\u00b0C",
+        "condition": "Windy"
+    },
+    {
+        "city": "Lucknow",
+        "temperature": "38\u00b0C",
+        "condition": "Cloudy"
+    },
+    {
+        "city": "Bhopal",
+        "temperature": "36\u00b0C",
+        "condition": "Windy"
+    },
+    {
+        "city": "Indore",
+        "temperature": "40\u00b0C",
+        "condition": "Foggy"
+    },
+    {
+        "city": "Patna",
+        "temperature": "42\u00b0C",
+        "condition": "Hazy"
+    },
+    {
+        "city": "Ranchi",
+        "temperature": "25\u00b0C",
+        "condition": "Windy"
+    },
+    {
+        "city": "Bhubaneswar",
+        "temperature": "35\u00b0C",
+        "condition": "Hazy"
+    },
+    {
+        "city": "Chandigarh",
+        "temperature": "33\u00b0C",
+        "condition": "Hazy"
+    },
+    {
+        "city": "Varanasi",
+        "temperature": "30\u00b0C",
+        "condition": "Thunderstorm"
+    },
+    {
+        "city": "Surat",
+        "temperature": "26\u00b0C",
+        "condition": "Thunderstorm"
+    },
+    {
+        "city": "Kanpur",
+        "temperature": "20\u00b0C",
+        "condition": "Sunny"
+    },
+    {
+        "city": "Guwahati",
+        "temperature": "35\u00b0C",
+        "condition": "Sunny"
+    },
+    {
+        "city": "Nagpur",
+        "temperature": "33\u00b0C",
+        "condition": "Foggy"
+    },
+    {
+        "city": "Dehradun",
+        "temperature": "25\u00b0C",
+        "condition": "Thunderstorm"
+    },
+    {
+        "city": "Shimla",
+        "temperature": "22\u00b0C",
+        "condition": "Rainy"
+    },
+    {
+        "city": "Udaipur",
+        "temperature": "25\u00b0C",
+        "condition": "Thunderstorm"
+    },
+    {
+        "city": "Amritsar",
+        "temperature": "26\u00b0C",
+        "condition": "Hazy"
+    },
+    {
+        "city": "Jammu",
+        "temperature": "41\u00b0C",
+        "condition": "Thunderstorm"
+    },
+    {
+        "city": "Kochi",
+        "temperature": "21\u00b0C",
+        "condition": "Thunderstorm"
+    },
+    {
+        "city": "Thiruvananthapuram",
+        "temperature": "33\u00b0C",
+        "condition": "Rainy"
+    },
+    {
+        "city": "Agra",
+        "temperature": "29\u00b0C",
+        "condition": "Rainy"
+    },
+    {
+        "city": "Mysore",
+        "temperature": "33\u00b0C",
+        "condition": "Windy"
+    }
+]
