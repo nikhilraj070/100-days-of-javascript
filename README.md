@@ -18,5 +18,6 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 12:Interest Calculator
 - [x] Day 13:Dice Roller
 - [x] Day 14:Weather App Static
+- [x] Day 15:Light Dark Mode
       
 
