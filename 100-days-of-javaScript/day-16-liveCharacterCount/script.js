@@ -4,4 +4,4 @@ let char =0 ;
 text.addEventListener('input',()=>{
    char = text.value.length;
    count.innerText =`character = ${char} `;
-})
+}) 
