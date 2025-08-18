@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    background-color:#03003D;
+    color: aliceblue;
+}
+
+.container{
+    width: 90%;
+    max-width: 700px;
+    border: 2px solid rgb(248, 247, 247);
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.text
+{
+    width: 80%;
+    
+    border: 1px solid rgb(255, 255, 255);
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+    background: white;
+    color: #1A165A;
+}
+.text div {
+    width: 100%;
+    text-align: center;
+    margin: 10px;
+}
+.text div input {
+    width: 70%;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px 10px;
+     border-radius: 10px;
+}
+.text div button{
+     width: fit-content;
+    height: 40px;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: #1A165A;
+    color: aliceblue;
+
+}
+.about{
+    
+    
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px 20px;
+    width: 80%;
+    align-items: center;
+    border-radius: 20px;
+    background: white;
+    color: #1A165A;
+}
+
+@media screen and (max-width: 600px) {
+  .container{
+    width: 100%;
+    border: none;
+  }
+  .text div{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+}
+.text ,.about
+{
+    width: 100%; 
+    
+}
+.text div input{
+    width: 90%;
+}
+
+
+}

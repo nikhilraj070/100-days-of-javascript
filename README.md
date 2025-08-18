@@ -23,6 +23,7 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 17:Button Clicker Game
 - [x] Day 18:Currency Converter Static
 - [x] Day 19:Form Validator
+- [x] Day 20:Palindrome Checker
 
       
 
