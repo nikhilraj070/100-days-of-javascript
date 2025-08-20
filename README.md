@@ -25,6 +25,7 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 19:Form Validator
 - [x] Day 20:Palindrome Checker
 - [x] Day 21:Countdown Timer
+- [x] Day 22:Rock Paper Scissors
 
       
 
