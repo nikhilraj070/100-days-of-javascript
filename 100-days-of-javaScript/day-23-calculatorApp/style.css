@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: rgb(30, 31, 31);
+    color: aliceblue;
+}
+
+.container{
+    width: 90%;
+    max-width: 300px;
+    border: 2px solid rgb(248, 247, 247);
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.cal
+{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.cal div{
+     width: 23%;
+     height: 30px;
+     text-align: center;
+     border: 2px solid white;
+     font-weight: 600;
+     padding: 5px;
+     border-radius: 10px;
+
+}
+input{
+    width: 90%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    text-align: right;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 1rem;
+}
