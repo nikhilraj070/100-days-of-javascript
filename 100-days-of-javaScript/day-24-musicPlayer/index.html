@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+<body>
+    <div class="container">
+        <h2>Music player</h2>
+        <audio src=""  class="audio" ></audio>
+        <div class="image">
+            <img src="./assets/image.png"  alt="track_image">
+        </div>
+        <div class="tag"><b class="name">songName</b></div>
+        <div class="tag"><i class="artist"></i>Artist</div>
+
+        <div class="buttons">
+            <button><span class="material-symbols-outlined prev">
+arrow_back
+</span></button>
+            <button><span class="material-symbols-outlined status">
+play_arrow
+</span></button>
+            <button><span class="material-symbols-outlined next">
+arrow_forward
+</span></button>
+        </div>
+        <div class="slider">
+            <div class="current_time">00:00</div>
+            <input type="range" min="0" max="100" class="range_slider">
+            <div class="ending_time">00:00</div>
+        </div>
+        <div class="slider"> 
+            <span class="material-symbols-outlined">
+volume_down
+  </span>           
+            <input type="range" min="0" max="100" class="volume_slider">
+            <span class="material-symbols-outlined">
+volume_up
+</span>
+        </div>
+    
+    </div>
+     
+    <script src="script.js"></script>
+</body>
+</html>
