@@ -31,6 +31,7 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 25:Modal Popup 
 - [x] Day 26:Toast Notification 
 - [x] Day 27:Tabs Component
+- [x] Day 28:Notes App
 
 
       
