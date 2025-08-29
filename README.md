@@ -33,6 +33,7 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 27:Tabs Component
 - [x] Day 28:Notes App 
 - [x] Day 29:Password Strength Checker 
+- [x] Day 30:Calender 
 
 
       

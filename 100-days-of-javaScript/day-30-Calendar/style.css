@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    margin-top: 10%;
+    justify-content: center;
+    font-family: sans-serif;
+    background-color: rgb(30, 31, 31);
+    color: aliceblue;
+}
+.container{
+    width: 400px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 20px ;
+    height: fit-content;
+}
+.weeks{
+    display: flex;
+     list-style: none; 
+     justify-content: space-around;
+      margin-bottom: 20px;
+}
+.dates {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+  list-style: none; 
+  padding: 0;
+  margin: 0;
+}
+
+.dates li {
+    height: 14vw;
+    width: 14vw;
+    max-width: 40px;
+    max-height: 40px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 50%;
+  font-weight: bold;
+}
+.dates li:hover{
+  background-color: rgb(53, 53, 53);
+}
+.date{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    
+}
+.active{
+    background-color: blue;
+}
+.inactive{
+    color: grey;
+}
+.month_year{
+    font-weight:bolder ;
+    font-size: 1.3rem;
+}
