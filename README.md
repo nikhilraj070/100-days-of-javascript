@@ -37,6 +37,7 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 31:Copy To Clipboard 
 - [x] Day 32:Drawing
 - [x] Day 33:Image Slider
+- [x] Day 34:Number Guessing Game
 
 
 
