@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    margin-top: 10%;
+    justify-content: center;
+    font-family: sans-serif;
+    background-color: rgb(30, 31, 31);
+    color: aliceblue;
+}
+
+.container{
+    max-width: 500px;
+    max-height: 500px;
+    width: 90vw;
+    height: 90vw;
+    border: 2px solid rgb(248, 247, 247);
+   
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+img{
+    width: 90%;
+    height: 90%;
+    border-radius: 10px;
+}
