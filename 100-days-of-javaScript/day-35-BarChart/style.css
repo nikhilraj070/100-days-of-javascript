@@ -1,0 +1,12 @@
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background: #f4f4f4;
+    }
+    .canvas {
+      width: 80%;
+      max-width: 600px;
+    }
