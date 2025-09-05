@@ -40,6 +40,7 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 34:Number Guessing Game
 - [x] Day 35:Bar Chart
 - [x] Day 36:Unit Converter
+- [x] Day 37:Random Quotes Generator
 
 
 
