@@ -43,6 +43,7 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 37:Random Quotes Generator
 - [x] Day 38:Book List Manager
 - [x] Day 39:Text Case converter
+- [x] Day 40:Mouse Cordinate Display
 
 
 
