@@ -44,6 +44,7 @@ This is my 100-day challenge of practicing JavaScript daily. Each folder represe
 - [x] Day 38:Book List Manager
 - [x] Day 39:Text Case converter
 - [x] Day 40:Mouse Cordinate Display
+- [x] Day 41:Git HUb User Fetcher
 
 
 

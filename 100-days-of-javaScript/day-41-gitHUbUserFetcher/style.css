@@ -1,0 +1,136 @@
+:root {
+    --bg-color: #141d2f;
+    --card-color: #1e2a47;
+    --text-primary: #ffffff;
+    --text-secondary: #0079ff;
+    --shadow: rgba(0, 0, 0, 0.1);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    width: 100vw;
+    max-width: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#search-form {
+    display: flex;
+    width: 100%;
+    background-color: var(--card-color);
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 4px 15px var(--shadow);
+    margin-bottom: 20px;
+}
+
+#username-input {
+    flex-grow: 1;
+    background: none;
+    border: none;
+    outline: none;
+    color: var(--text-primary);
+    font-size: 16px;
+    padding: 0 10px;
+}
+
+#search-form button {
+    background-color: var(--text-secondary);
+    color: var(--text-primary);
+    border: none;
+    border-radius: 5px;
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+}
+
+#search-form button:hover {
+    opacity: 0.8;
+}
+
+#profile-container {
+    background-color: var(--card-color);
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 15px var(--shadow);
+    display: none; /* Hidden by default */
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.profile-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid var(--text-secondary);
+}
+
+.profile-info h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.profile-info p {
+    color: var(--text-secondary);
+    margin-top: 4px;
+}
+
+.profile-bio {
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+.profile-stats {
+    display: flex;
+    justify-content: space-around;
+    background-color: var(--bg-color);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.stat h3 {
+    font-size: 22px;
+}
+
+.stat p {
+    font-size: 14px;
+    color: #a0aec0;
+}
+
+.error-message {
+    text-align: center;
+    font-size: 18px;
+    color: #e53e3e;
+    display: block; /* To make it visible */
+}
